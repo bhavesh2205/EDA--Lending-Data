@@ -1,6 +1,8 @@
 # Lending-EDA
 
-consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on 
+![man](https://github.com/bhavesh2205/Lending-Exploratory-Data-Analysis/assets/114500492/83e9ed12-bc9e-43b0-93d0-c36ce6c88ed1)
+
+Consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on 
 the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
   1. If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
@@ -10,7 +12,9 @@ the applicant’s profile. Two types of risks are associated with the bank’s d
 The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
 # Business Objectives
-This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
+
+This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast 
+online interface. 
 
  
 
