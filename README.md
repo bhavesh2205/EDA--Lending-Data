@@ -26,9 +26,4 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
  
 
-In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
-
-# Datasets:
-    Download the dataset from below. It contains the complete loan data for all loans issued through the time period 2007 to 2011.
-    
-   <https://www.kaggle.com/code/vinaypratap/lending-club-case-study-1/input?select=loan.csv>
+In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
